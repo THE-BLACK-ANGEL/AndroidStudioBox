@@ -80,9 +80,9 @@ fun MyBox(modifier: Modifier = Modifier) {
 
 @Preview(showBackground = true)
 @Composable
-fun myBoxPreview() {
-    BoxTheme {
-        MyBox()
+fun MyBoxPreview() {
+        BoxTheme {
+            MyBox()
     }
 }
 
